@@ -16,7 +16,7 @@ struct ContentView: View {
 
             CircleImage()
                 .offset(y: -130)
-                // .padding(.bottom, -130)
+                .padding(.bottom, -130)
 
             VStack(alignment: .leading) {
                 Text("Turtle Rock")
@@ -28,8 +28,7 @@ struct ContentView: View {
                     Text("California")
                 }
                 .font(.subheadline)
-                .foregroundColor(.blue)
-                .foregroundColor(.red)
+                .foregroundColor(.secondary)
 
                 Divider()
 
