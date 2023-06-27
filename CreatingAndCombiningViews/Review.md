@@ -1,8 +1,38 @@
-<img width="695" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/b17473e3-1c52-4edc-a935-8564899add23">
+<img width="695" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/b17473e3-1c52-4edc-a935-8564899add23" style="border: 20px solid  gray;">
+
+App Protocol
+
+protocol
+
+struct + protocol vs class
+
+상속
+
+property
+
+stored property
+
+computed property
+
+get - set
+
+명령형 vs 선언형
+
+some 키워드
+
+Scene
+
+@main
+
+WindowGroup
 
 - - -
 
-<img width="878" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/ce475c37-6f65-4d14-a2f0-c36b3123dd18">
+<img width="878" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/ce475c37-6f65-4d14-a2f0-c36b3123dd18" style="border: 20px solid  gray;">
+
+modifier
+
+"Each modifier returns a new view, so it’s common to chain multiple modifiers, stacked vertically."
 
 - - -
 <img width="781" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/661314c7-a6b1-472e-a186-03e7257400fe">
@@ -13,7 +43,7 @@ modifier의 작동 방식? 위의 사진에서 글씨의 색깔이 빨강이 아
 
 <img width="1255" alt="image" src="https://github.com/eratchacha/SwiftUITutorials/assets/58865827/5135c8d3-ee55-4778-8a3c-4198375cfd5b">
 
-Padding 값을 설정 안해줬을 경우 디폴트값은 몇인지?
+padding 값을 설정 안해줬을 경우 디폴트값은 몇인지?
 
 - - -
 
