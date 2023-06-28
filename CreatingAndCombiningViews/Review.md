@@ -2,12 +2,21 @@
 
 ### protocol
 
-- struct + protocol vs class
+- struct,enum + protocol vs class
+  -  SWift는 다중 상속이 불가능하고, 오직 class만이 상속이 가능하기 때문에 protocol를 활용한다!
+  -  ? : super class 와  protocol의 차이점은 무엇이 있을까 --> protocol은 여러 개 가능 & enum, struct에도 사용 가능. (이정도 뿐인건가?) --> 사실 완전히 다르지 protocol은 애초에 오버라이딩 개념이 아니지. class는 오버라이딩. 프로토콜은 어떻게 보면 클래스와 인스터스 관계처럼 프로퍼티와 클래스 관계라고 할 수 있을까 완전히 같지 않더라도?
+  -  ? : 내가 이해한 바로는 상속은 수직 관계, protocol은 평행관계인데 이것이 맞나?
+ 
 - 상속
+  - https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/
 
 ### App protocol
 
+https://developer.apple.com/documentation/swiftui/app
+
 ### property
+
+- 필드와 메소드
 
 - stored property
 
